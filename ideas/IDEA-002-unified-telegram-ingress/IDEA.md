@@ -1,0 +1,1 @@
+[Full IDEA content]
