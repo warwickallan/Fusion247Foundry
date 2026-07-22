@@ -1,3 +1,22 @@
-# IDEA Template
+# Idea Capture
 
-[Lean progressive template]
+Status:
+Owner:
+Source:
+Created:
+
+## Summary
+
+## Problem / Opportunity
+
+## Current State
+
+## Possible Shape
+
+## Evidence
+
+## Decisions
+
+## Stress Tests
+
+## Next Action

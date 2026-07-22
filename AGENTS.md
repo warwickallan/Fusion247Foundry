@@ -13,7 +13,7 @@ This repository is Warwick's public Fusion247 Foundry. It is an ideas and work-p
 
 - Treat `ideas/` as exploratory material.
 - Do not browse unrelated idea folders, branches, issues, pull requests, or repository history to infer build scope.
-- Build agents should act only from a named work-package PR and its handoff material.
+- Build agents should act only from an approved build authority pack containing `BUILD-BRIEF.md`, `BUILD-CONTRACT.md`, and `IMPLEMENTATION-PLAN.md`.
 - Escalate ambiguity instead of mining unrelated Foundry context.
 
 ## Migration Rules
@@ -28,4 +28,5 @@ This repository is Warwick's public Fusion247 Foundry. It is an ideas and work-p
 - BUILD-BRIEF: GPT plus Warwick.
 - BUILD-CONTRACT / PRD / Master Prompt: GPT plus Warwick.
 - IMPLEMENTATION-PLAN: Larry.
-- Implementation work starts only from an approved work package.
+- There is no active HANDOFF.md document and no separate PRD.md document.
+- Implementation work starts only from the approved three-document pack.
