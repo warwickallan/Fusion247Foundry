@@ -1,0 +1,3 @@
+# Ideas Directory
+
+Exploratory only.
